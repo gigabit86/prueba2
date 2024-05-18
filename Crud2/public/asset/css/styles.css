@@ -1,0 +1,23 @@
+
+.fondo_header {
+    background-color: #002346;
+    padding: 10px 0;
+    color: #fff;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+.nav-link:hover {
+    color: #a0a0a0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin-bottom: 60px; /* Añadir espacio para el footer */
+}
+.container {
+    margin-top: 30px;
+}
